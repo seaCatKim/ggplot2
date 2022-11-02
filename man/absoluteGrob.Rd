@@ -10,7 +10,7 @@ absoluteGrob(
   height = NULL,
   xmin = NULL,
   ymin = NULL,
-  vp = NULL
+#  vp = NULL
 )
 }
 \description{
